@@ -1,0 +1,44 @@
+{
+  "question": [
+    {
+      "id": "question-01",
+      "problem": "과일이 아닌 것은?",
+      "options": ["사과", "망고", "바나나", "연필"],
+      "correct": "연필"
+    },
+    {
+      "id": "question-02",
+      "problem": "전자기기가 아닌 것은",
+      "options": ["컴퓨터", "노트북", "핸드폰", "발가락"],
+      "correct": "발가락"
+    }
+  ],
+  "math": [
+    {
+      "id": "math-01",
+      "problem": "2 * 3은 얼마인가요?",
+      "options": ["4", "6", "8", "10"],
+      "correct": "6"
+    },
+    {
+      "id": "math-02",
+      "problem": "15 / 3은 얼마인가요?",
+      "options": ["2", "3", "4", "5"],
+      "correct": "5"
+    }
+  ],
+  "alphabet": [
+    {
+      "id": "alphabet-01",
+      "problem": "알파벳 A의 소문자는 무엇인가요?",
+      "options": ["a", "b", "c", "d"],
+      "correct": "a"
+    },
+    {
+      "id": "alphabet-02",
+      "problem": "알파벳 Z의 바로 앞 알파벳은 무엇인가요?",
+      "options": ["Y", "X", "W", "V"],
+      "correct": "Y"
+    }
+  ]
+}
